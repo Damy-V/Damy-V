@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Damy-V
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning python
-- 💞️ I’m looking for a learner who can guide me
+- 👀 Lending club case study is the data of lending mortagages and loans 
+- 🌱 Data is cleaned using python.
+- 💞️ Visualizations have been done in python too,
 - 📫 Reach me at damarisvaddadi@icloud.com
 
 <!---
